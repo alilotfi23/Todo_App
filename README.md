@@ -27,7 +27,10 @@ go run main.go add "Learn Go basics"
 # List all tasks
 go run main.go list
 ```
-# Project Structure
+## 📁 Project Structure
+
+```
 todo-app/
 ├── main.go        # Main application code
 └── tasks.json     # Auto-generated JSON file to store tasks
+```
